@@ -1,0 +1,21 @@
+th {
+   color: rgb(34, 32, 32);
+   font-size: 18px;
+}
+td {
+   color: rgb#787881;
+   padding: 10px 10px 10px 10px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body {
+   background-image: url(../img/book-pages.jpg);
+   background-position: -30px -70px;
+   background-size: 1920px 1080px;
+}
+h1 {
+   color: rgb(105, 114, 107);
+   text-align: center;
+}
+ol {
+   font-size: 20px;
+}
